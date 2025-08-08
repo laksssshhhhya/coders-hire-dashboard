@@ -2,21 +2,21 @@
 
 A modern, responsive hiring dashboard built with React, Vite, and Tailwind CSS for managing developer recruitment processes.
 
-## 🚀 Features
+## Features
 
 - **Modern UI/UX**: Clean and intuitive interface built with Tailwind CSS
 - **Fast Development**: Powered by Vite for lightning-fast build times and hot module replacement
 - **Responsive Design**: Fully responsive layout that works on all devices
 - **Developer-Focused**: Specifically designed for hiring and managing developer talent
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend Framework**: React 18
 - **Build Tool**: Vite
 - **Styling**: Tailwind CSS
 - **Language**: JavaScript (ES6+)
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 coders-hire-dashboard/
